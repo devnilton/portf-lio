@@ -336,11 +336,14 @@ section .title::after{
 .skills .skills-content .right .js::before{
     width: 75%;
 }
+.skills .skills-content .right .react::before{
+    width: 55%;
+}
 .skills .skills-content .right .java::before{
     width: 47%;
 }
-.skills .skills-content .right .mysql::before{
-    width: 42%;
+.skills .skills-content .right .git::before{
+    width: 65%;
 }
 /*  sessão equipe  */
 .project .title::after{
