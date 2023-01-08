@@ -398,9 +398,6 @@ section .title::after{
     background: #222183!important;
 }
 /*  sessão Contato  */
-.contact .title::after{
-    content: "Fale conosco";
-}
 .contact .contact-content .column{
     width: calc(50% - 30px);
 }
