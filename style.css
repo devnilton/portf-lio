@@ -9,6 +9,7 @@ html{
     scroll-behavior: smooth;
 }
 a { color: inherit; }
+
 .max-width{
     max-width: 1300px;
     padding: 0 80px;
