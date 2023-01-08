@@ -331,12 +331,12 @@ section .title::after{
     width: 93%;
 }
 .skills .skills-content .right .css::before{
-    width: 85%;
+    width: 90%;
 }
 .skills .skills-content .right .js::before{
-    width: 87%;
+    width: 75%;
 }
-.skills .skills-content .right .php::before{
+.skills .skills-content .right .java::before{
     width: 47%;
 }
 .skills .skills-content .right .mysql::before{
