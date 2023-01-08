@@ -16,15 +16,15 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["YouTuber", "Desenvolvedor", "Designer", "Freelancer"],
-         typeSpeed:100,
-         backSpeed:60,
+         strings:["Desenvolvedor", "Designer", "Freelancer"],
+         typeSpeed:130,
+         backSpeed:80,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["YouTuber", "Desenvolvedor", "Designer", "Freelancer"],
-        typeSpeed:100,
-        backSpeed:60,
+        strings:["Desenvolvedor", "Designer", "Freelancer"],
+        typeSpeed:130,
+        backSpeed:80,
         loop:true
     });
 
