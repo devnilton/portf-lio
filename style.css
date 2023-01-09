@@ -531,6 +531,7 @@ footer span a:hover{
         display: block;
         z-index: 999;
     }
+   
     .navbar .menu{
         position: fixed;
         width: 100%;
@@ -553,6 +554,8 @@ footer span a:hover{
         margin: 20px 0;
         font-size: 25px;
     }
+    
+    
     .home .home-content .text-2{
         font-size: 70px;
     }
